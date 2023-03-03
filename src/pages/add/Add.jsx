@@ -1,5 +1,5 @@
-import './Gig.sass'
+import "./Add.sass";
 
-export const Gig = () => {
-    return <div className='gig'>Gig</div>
-}
+export const Add = () => {
+  return <div className="gig">Add</div>;
+};
